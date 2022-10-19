@@ -1,0 +1,7 @@
+bin
+obj
+.vscode
+/AutoInstall/*
+!AutoInstall.csproj
+!AutoInst.cs
+!app.manifest
